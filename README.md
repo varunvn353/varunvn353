@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Narsana</h1>
-<h3 align="center">I am a Data Science and programming student  from IIT MADRAS.
-Passionate about Artificial Intelligence
-I am always looking for opportunities to grow and meet new people, so feel free to send me a message.</h3>
+<h3 align="center">
+Hi! I'm a student at IIT Madras studying Data Science and Programming. I'm interested in Data Wrangling, deep learning, Programming, Computer Networks, Natural Language Processing, Artificial Intelligence, and Machine Learning. I am always looking for opportunities to grow and meet new people, so feel free to send me a message</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunvn353&label=Profile%20views&color=0e75b6&style=flat" alt="varunvn353" /> </p>
 
