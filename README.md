@@ -8,7 +8,7 @@ Hi! I'm a student at IIT Madras studying Data Science and Programming. I'm inter
 
 <p align="left"> <a href="https://twitter.com/varunvn353" target="blank"><img src="https://img.shields.io/twitter/follow/varunvn353?logo=twitter&style=for-the-badge" alt="varunvn353" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **devops**
 
 - 📫 How to reach me **varunvn353@gmail.com**
 
