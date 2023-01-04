@@ -8,12 +8,12 @@ Hi! I'm a student at IIT Madras . I'm interested in Devops, WEB 3, AI, and ML. I
 
 <p align="left"> <a href="https://twitter.com/varunvn353" target="blank"><img src="https://img.shields.io/twitter/follow/varunvn353?logo=twitter&style=for-the-badge" alt="varunvn353" /></a> </p>
 
-- 🌱 I’m currently learning **devops**
+- 🌱 I’m currently learning **Devops**
 
 - 📫 How to reach me **varunvn353@gmail.com**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<a href="https://hashnode.com/varunvn353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="varunvn353" height="30" width="40" /></a><!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -24,7 +24,7 @@ Hi! I'm a student at IIT Madras . I'm interested in Devops, WEB 3, AI, and ML. I
 <a href="https://stackoverflow.com/users/varunvn353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="varunvn353" height="30" width="40" /></a>
 
 
-<a href="https://hashnode.com/varunvn353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="varunvn353" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/c/varun narsana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="varun narsana" height="30" width="40" /></a>
 </p>
 
