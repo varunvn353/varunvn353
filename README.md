@@ -13,7 +13,7 @@ Hi! I'm a student at IIT Madras . I'm interested in Devops, WEB 3, AI, and ML. I
 - 📫 How to reach me **varunvn353@gmail.com**
 
 ### Blogs posts
-<a href="https://hashnode.com/varunvn353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="varunvn353" height="30" width="40" /></a><!-- BLOG-POST-LIST:START -->
+<a href="https://hashnode.com/@varunvn353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="varunvn353" height="30" width="40" /></a><!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
