@@ -20,7 +20,7 @@ Hi! I'm a student at IIT Madras . I'm interested in Devops, WEB 3, AI, and ML. I
 <p align="left">
 <a href="https://dev.to/https://dev.to/varunvn353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/varunvn353" height="30" width="40" /></a>
 <a href="https://twitter.com/varunvn353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varunvn353" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/varun narsana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun narsana" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/varun-narsana-364476248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun narsana" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/varunvn353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="varunvn353" height="30" width="40" /></a>
 
 
