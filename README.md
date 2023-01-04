@@ -26,10 +26,6 @@ Hi! I'm a student at IIT Madras . I'm interested in Devops, WEB 3, AI, and ML. I
 
 <a href="https://hashnode.com/varunvn353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="varunvn353" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/varun narsana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="varun narsana" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/varunvn353" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="varunvn353" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/varunvn353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="varunvn353" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/varunvn353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varunvn353" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
